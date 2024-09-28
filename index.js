@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 
-const mongoURI = "mongodb+srv://jayapriya:jayavino2005@cluster0.krytf.mongodb.net/?retryWrites=true&w=majority";
+const mongoURI ="mongodb+srv://jayapriyalambotharan:<db_password>@cluster0.bk55b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 
 mongoose
